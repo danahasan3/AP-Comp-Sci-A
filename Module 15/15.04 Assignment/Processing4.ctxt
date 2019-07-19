@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Processing4
+comment0.text=\r\n\ Interface\ for\ homework\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 1/20/2019\r\n
+comment1.params=pages
+comment1.target=void\ doHomework(int)
+numComments=2

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ElectionTesterV4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printRawData()
+comment3.params=
+comment3.target=int\ calcTotalVotes()
+comment4.params=
+comment4.target=void\ createTable()
+comment5.params=candidates\ find\ replacement
+comment5.target=void\ replaceName(java.util.ArrayList,\ java.lang.String,\ java.lang.String)
+comment6.params=candidates\ find\ replacementVotes
+comment6.target=void\ replaceVotes(java.util.ArrayList,\ java.lang.String,\ int)
+comment7.params=candidates\ find\ replacementName\ replacementVotes
+comment7.target=void\ replaceNameAndVotes(java.util.ArrayList,\ java.lang.String,\ java.lang.String,\ int)
+comment8.params=str\ fieldWidth\ newLine
+comment8.target=void\ printCenter(java.lang.String,\ int,\ boolean)
+comment8.text=\r\n\ Prints\ string\ surrounded\ by\ space\ characters\ such\ that\ the\ original\ is\ at\ the\ center\r\n\ @param\ str\ string\ that\ needs\ to\ be\ centered\r\n\ @param\ fieldWidth\ amount\ of\ characters\ in\ which\ the\ string\ needs\ to\ be\ centered\r\n\ @param\ newLine\ whether\ or\ not\ to\ add\ \\n\ character\ at\ the\ end\ of\ the\ string\r\n
+comment9.params=str\ times\ newLine
+comment9.target=void\ printRepeated(java.lang.String,\ int,\ boolean)
+comment9.text=\r\n\ Prints\ a\ certain\ string\ repeatedly\r\n\ @param\ str\ string\ that\ needs\ to\ be\ repeated\r\n\ @param\ times\ number\ of\ times\ the\ string\ needs\ to\ be\ repeated\r\n\ @param\ newLine\ whether\ or\ not\ to\ print\ a\ \\n\ character\ at\ the\ end\r\n
+numComments=10

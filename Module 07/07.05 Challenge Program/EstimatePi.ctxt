@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EstimatePi
+comment1.params=p\ n
+comment1.target=double\ estimatePi(long,\ long)
+comment2.params=numTrials\ dartsPerTrial
+comment2.target=double\ runSimulation(long,\ long)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

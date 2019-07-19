@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Forest
+comment0.text=\r\n\ This\ class\ defines\ a\ basic\ Forest.\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 9/5/2018\r\n
+comment1.params=l\ w\ trees
+comment1.target=Forest(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getTrees()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

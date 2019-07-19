@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cube4
+comment0.text=\r\n\ This\ class\ defines\ a\ Cube4\ object\ by\ extending\ Box4\r\n\ but\ changing\ the\ constructor\ such\ that\ it\ takes\ one\ side\ length\r\n\ and\ applies\ it\ to\ all\ 3\ dimensions.\r\n\ \r\n\ The\ toString\ method\ has\ been\ added.\r\n\r\n\ @author\ Poly\ Morphism\r\n\ @version\ 06/13/17\r\n
+comment1.params=length
+comment1.target=Cube4(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

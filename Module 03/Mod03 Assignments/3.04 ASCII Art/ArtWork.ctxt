@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ArtWork
+comment0.text=\r\n\ Print\ ASCII\ Art\ to\ the\ console\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 6/11/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

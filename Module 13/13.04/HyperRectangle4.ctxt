@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HyperRectangle4
+comment0.text=\r\n\ This\ class\ defines\ a\ HyperRectangle4\ object\ by\ extending\ Box4\r\n\ and\ including\ a\ length4\ variable\r\n\ \r\n\ The\ toString\ method\ has\ been\ added.\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 09/20/2018\r\n
+comment1.params=length1\ length2\ length3\ length4
+comment1.target=HyperRectangle4(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getLength4()
+comment4.params=rect
+comment4.target=boolean\ equals(HyperRectangle4)
+numComments=5

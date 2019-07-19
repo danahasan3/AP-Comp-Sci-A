@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CirclePoints
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r\ x
+comment2.target=double\ yPos(double,\ double)
+comment3.params=str\ fieldWidth\ newLine
+comment3.target=void\ printCenter(java.lang.String,\ int,\ boolean)
+comment4.params=str\ times\ newLine
+comment4.target=void\ printRepeated(java.lang.String,\ int,\ boolean)
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CourseTester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str\ fieldWidth\ newLine
+comment2.target=void\ printCenter(java.lang.String,\ int,\ boolean)
+comment2.text=\r\n\ Prints\ string\ surrounded\ by\ space\ characters\ such\ that\ the\ original\ is\ at\ the\ center\r\n\ @param\ str\ string\ that\ needs\ to\ be\ centered\r\n\ @param\ fieldWidth\ amount\ of\ characters\ in\ which\ the\ string\ needs\ to\ be\ centered\r\n\ @param\ newLine\ whether\ or\ not\ to\ add\ \\n\ character\ at\ the\ end\ of\ the\ string\r\n
+comment3.params=str\ times\ newLine
+comment3.target=void\ printRepeated(java.lang.String,\ int,\ boolean)
+comment3.text=\r\n\ Prints\ a\ certain\ string\ repeatedly\r\n\ @param\ str\ string\ that\ needs\ to\ be\ repeated\r\n\ @param\ times\ number\ of\ times\ the\ string\ needs\ to\ be\ repeated\r\n\ @param\ newLine\ whether\ or\ not\ to\ print\ a\ \\n\ character\ at\ the\ end\r\n
+numComments=4

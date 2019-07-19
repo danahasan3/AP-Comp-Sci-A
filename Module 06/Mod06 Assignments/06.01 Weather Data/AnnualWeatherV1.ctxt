@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AnnualWeatherV1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str\ fieldWidth
+comment2.target=void\ printCenter(java.lang.String,\ int)
+comment3.params=str\ times\ newLine
+comment3.target=void\ printRepeated(java.lang.String,\ int,\ boolean)
+numComments=4

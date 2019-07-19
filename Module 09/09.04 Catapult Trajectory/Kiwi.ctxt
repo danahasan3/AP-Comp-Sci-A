@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Kiwi
+comment0.text=\r\n\ Class\ used\ to\ calculate\ distance\ travelled\ by\ a\ Kiwi\ when\ it\ is\ thrown\ at\ a\ certain\ angle\ with\ a\ certain\ speed\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 8/4/2018\r\n
+comment1.params=speedKPH\ thetaDeg
+comment1.target=Kiwi(double,\ double)
+comment2.params=
+comment2.target=void\ calcDist()
+comment2.text=\r\n\ Mutator\ method\ that\ calculates\ the\ distance\ travelled\ by\ the\ projectile\ given\ its\ speed\ and\ launch\ angle\r\n
+comment3.params=
+comment3.target=double\ getDist()
+comment3.text=\r\n\ Getter\ method\ that\ returns\ the\ distance\ travelled\ by\ the\ projectile\r\n\ @return\ distance\ travelled\ by\ projectile\r\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Water
+comment0.text=\r\n\ Abstract\ class\ for\ water\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ (ve\r\n
+comment1.params=name\ cost
+comment1.target=Water(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ getCost()
+comment4.params=water
+comment4.target=int\ compareTo(Water)
+numComments=5

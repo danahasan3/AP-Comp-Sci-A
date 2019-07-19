@@ -1,0 +1,19 @@
+1) Explain how you use the principle of recursion to create your image:
+
+I started by splitting the image into two unequal rectangles using a vertical line. For each of these rectangles, I used a horizontal line to split them unequally. I continued splitting various rectangles that formed such that complexity increased towards the top left and bottom right. This is recursive in nature because I am repeatedly splitting rectangles and then calling the "split function" on the new rectangles if their positions were sufficiently close to the top left / bottom right. I stopped splitting once the top left and bottom right were sufficiently complicated.
+
+2) Briefly describe a plan for how you might write a program to produce Mondrian art:
+
+I would create a Rect class that stores the position of two corners that define the rectangle and the color of the rectangle. I would then create an ArrayList of Rects and store one rectangle that covers the whole screen. I would then create sepHorizontal and sepVertical functions that would create horizontal or vertical lines to seperate a specific rectangle in the ArrayList into two rectangles. I would also create a function that would allow you to change the color. See included python file along with the mondrianArt.exe file to see this in action.
+
+3) Who should get the copyright credit for a piece of computer art: the CPU, the software, or the programmer? Explain your reasoning:
+
+The programmer would definitely be the one to recieve copyright credit for the computer art. Just as we wouldn't give copyright credit for a piece of art to the paintbrush an artist used to paint the piece, it doesn't make sense to credit the CPU or the software for the work. The one who produced the art is the programmer.
+
+4) If a computer, with no human intervention, produced Mondrian art indistinguishable from an original masterpiece, would it be a sign of artificial intelligence:
+
+An AI is any computer system that performs tasks that normally require human intelligence. Producing good Mondrian art is a task that would normally require human intelligence, so if a program was able to produce Mondrian art on the level of modern masterpieces, it would be considered an AI.
+
+5) If a computer, with no human intervention, produced Mondrian art indistinguishable from an original masterpiece, would it diminish the accomplishments of a human:
+
+No. Regardless of whether or not a computer/AI has been capable of producing art at the level of an artist, it doesn't change the fact that the artist is also capable of creating such masterpieces unlike most humans. This kind of scenario has happened before already. For example, AI has been created that can beat the world's best chess players, but that doesn't make those players any less respectable.

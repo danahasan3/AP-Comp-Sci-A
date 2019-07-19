@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=IntroToLogic3
+comment0.text=\r\n\ IntroToLogic\ Course\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 12/16/2018\r\n
+comment1.params=
+comment1.target=IntroToLogic3()
+comment2.params=numPages
+comment2.target=void\ createAssignment(int)
+comment3.params=pages
+comment3.target=void\ doHomework(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

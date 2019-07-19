@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PrimeCalculator
+comment1.params=lower\ upper
+comment1.target=PrimeCalculator(int,\ int)
+comment1.text=\r\n\ Constructor\ that\ sets\ lower\ and\ upper\ bounds\ for\ PrimeCalculator\r\n\ @param\ lower\ Lower\ bound\ of\ Primes\r\n\ @param\ upper\ Upper\ bound\ of\ Primes\r\n\ Precondition\:\ lower\ and\ upper\ are\ positive\ values\r\n
+comment2.params=n
+comment2.target=boolean\ isPrime(int)
+comment2.text=\r\n\ Function\ that\ determines\ whether\ a\ given\ number\ is\ a\ prime\ or\ not\r\n\ @param\ n\ Number\ that\ needs\ to\ be\ checekd\r\n\ @return\ true\ if\ n\ is\ prime,\ false\ otherwise\r\n\ Precondition\:\ n\ must\ be\ positive\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getPrimes()
+comment3.text=\r\n\ Function\ that\ calculates\ all\ primes\ between\ lower\ and\ upper\ (inclusive)\r\n\ @return\ ArrayList\ with\ all\ primes\ between\ lower\ and\ upper\ (inclusive)\r\n
+numComments=4

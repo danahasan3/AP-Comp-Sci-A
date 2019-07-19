@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NumericConversion
+comment1.params=hex
+comment1.target=long\ hexStringDecode(java.lang.String)
+comment2.params=digit
+comment2.target=short\ hexChardecode(char)
+comment3.params=binary
+comment3.target=short\ binaryStringDecode(java.lang.String)
+comment4.params=binary
+comment4.target=java.lang.String\ binaryToHex(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

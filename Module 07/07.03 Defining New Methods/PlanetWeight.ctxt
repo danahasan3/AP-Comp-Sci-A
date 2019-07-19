@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlanetWeight
+comment1.params=W\ sg
+comment1.target=double\ modifiedWeight(double,\ double)
+comment2.params=planets\ sg\ W
+comment2.target=void\ dispData(java.lang.String[],\ double[],\ double[])
+comment3.params=str\ fieldWidth\ newLine
+comment3.target=void\ printCenter(java.lang.String,\ int,\ boolean)
+comment4.params=str\ times\ newLine
+comment4.target=void\ printRepeated(java.lang.String,\ int,\ boolean)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

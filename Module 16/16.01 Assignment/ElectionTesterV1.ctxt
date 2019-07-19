@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ElectionTesterV1
+comment0.text=\r\n\ Tester\ class\ for\ Candidate\ class.\ Uses\ standard\ arrays\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 3/16/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printRawData()
+comment3.params=
+comment3.target=int\ calcTotalVotes()
+comment4.params=
+comment4.target=void\ createTable()
+comment5.params=str\ fieldWidth\ newLine
+comment5.target=void\ printCenter(java.lang.String,\ int,\ boolean)
+comment5.text=\r\n\ Prints\ string\ surrounded\ by\ space\ characters\ such\ that\ the\ original\ is\ at\ the\ center\r\n\ @param\ str\ string\ that\ needs\ to\ be\ centered\r\n\ @param\ fieldWidth\ amount\ of\ characters\ in\ which\ the\ string\ needs\ to\ be\ centered\r\n\ @param\ newLine\ whether\ or\ not\ to\ add\ \\n\ character\ at\ the\ end\ of\ the\ string\r\n
+comment6.params=str\ times\ newLine
+comment6.target=void\ printRepeated(java.lang.String,\ int,\ boolean)
+comment6.text=\r\n\ Prints\ a\ certain\ string\ repeatedly\r\n\ @param\ str\ string\ that\ needs\ to\ be\ repeated\r\n\ @param\ times\ number\ of\ times\ the\ string\ needs\ to\ be\ repeated\r\n\ @param\ newLine\ whether\ or\ not\ to\ print\ a\ \\n\ character\ at\ the\ end\r\n
+numComments=7

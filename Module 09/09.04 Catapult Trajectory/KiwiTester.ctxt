@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=KiwiTester
+comment0.text=\r\n\ Class\ to\ test\ Kiwi\ class\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 8/4/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str\ fieldWidth\ newLine
+comment2.target=java.lang.String\ stringCenter(java.lang.String,\ int,\ boolean)
+comment2.text=\r\n\ Generates\ a\ string\ surrounded\ by\ space\ characters\ such\ that\ the\ original\ string\ is\ at\ the\ center\r\n\ @param\ str\ string\ that\ needs\ to\ be\ centered\r\n\ @param\ fieldWidth\ amount\ of\ characters\ in\ which\ the\ string\ needs\ to\ be\ centered\r\n\ @param\ newLine\ whether\ or\ not\ to\ add\ \\n\ character\ at\ the\ end\ of\ the\ string\r\n\ @return\ string\ of\ length\ fieldWidth\ with\ the\ string\ str\ centered\ in\ a\ bunch\ of\ space\ characters\r\n
+comment3.params=str\ times\ newLine
+comment3.target=java.lang.String\ stringRepeated(java.lang.String,\ int,\ boolean)
+comment3.text=\r\n\ Generates\ a\ string\ with\ a\ certain\ string\ repeated\ a\ certain\ number\ of\ times\r\n\ @param\ str\ string\ that\ needs\ to\ be\ repeated\r\n\ @param\ times\ number\ of\ times\ the\ string\ needs\ to\ be\ repeated\r\n\ @param\ newLine\ whether\ or\ not\ to\ print\ a\ \\n\ character\ at\ the\ end\r\n\ @return\ string\ that\ consists\ of\ the\ string\ str\ repeated\ times\ times\r\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HyperCube4
+comment0.text=\r\n\ This\ class\ defines\ a\ HyperCube4\ object\ by\ extending\ HyperRectangle4\r\n\ but\ changing\ the\ constructor\ such\ that\ it\ takes\ one\ side\ length\r\n\ and\ applies\ it\ to\ all\ 4\ dimensions.\r\n\ \r\n\ The\ toString\ method\ has\ been\ added.\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 09/20/2018\r\n
+comment1.params=length
+comment1.target=HyperCube4(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

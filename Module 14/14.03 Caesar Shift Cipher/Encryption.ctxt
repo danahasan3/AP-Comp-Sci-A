@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Encryption
+comment0.text=\r\n\ Class\ with\ variables\ and\ methods\ necessary\ for\ Encryption\ using\ Caesar\ Shift\ method\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 10/13/2018\r\n
+comment1.params=key
+comment1.target=void\ setShiftKey(int)
+comment2.params=
+comment2.target=void\ generateCypherAlphabet()
+comment3.params=
+comment3.target=java.lang.String\ getCypherAlphabet()
+comment4.params=msg
+comment4.target=java.lang.String\ encryptMessage(java.lang.String)
+numComments=5

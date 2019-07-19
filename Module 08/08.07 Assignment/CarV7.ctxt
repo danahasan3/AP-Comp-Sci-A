@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CarV7
+comment0.text=\r\n\ A\ car\ class\ that\ can\ calculate\ distance\ in\ various\ units\ given\ speed\ in\ mph\ and\ time\ in\ hours.\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 7/28/2018\r\n
+comment1.params=speed\ time
+comment1.target=CarV7(double,\ double)
+comment2.params=
+comment2.target=double\ calcDist()
+comment3.params=unit
+comment3.target=double\ calcDist(java.lang.String)
+comment4.params=
+comment4.target=double\ getSpeed()
+comment5.params=
+comment5.target=double\ getTime()
+numComments=6

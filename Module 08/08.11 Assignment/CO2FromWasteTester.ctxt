@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CO2FromWasteTester
+comment0.text=\r\n\ Tests\ CO2FromWaste\ class\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 7/30/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=min\ max
+comment2.target=int\ randInt(int,\ int)
+comment2.text=\r\n\ Returns\ random\ integer\ in\ the\ interval\ [min,\ max]\r\n\ @param\ min\ minimum\ value\ of\ random\ integer\r\n\ @param\ max\ maximum\ value\ of\ random\ integer\r\n
+comment3.params=
+comment3.target=boolean\ randBoolean()
+comment3.text=\r\n\ Returns\ random\ boolean\r\n
+comment4.params=str\ fieldWidth\ newLine
+comment4.target=void\ printCenter(java.lang.String,\ int,\ boolean)
+comment4.text=\r\n\ Prints\ string\ surrounded\ by\ space\ characters\ such\ that\ the\ original\ is\ at\ the\ center\r\n\ @param\ str\ string\ that\ needs\ to\ be\ centered\r\n\ @param\ fieldWidth\ amount\ of\ characters\ in\ which\ the\ string\ needs\ to\ be\ centered\r\n\ @param\ newLine\ whether\ or\ not\ to\ add\ \\n\ character\ at\ the\ end\ of\ the\ string\r\n
+comment5.params=str\ times\ newLine
+comment5.target=void\ printRepeated(java.lang.String,\ int,\ boolean)
+comment5.text=\r\n\ Prints\ a\ certain\ string\ repeatedly\r\n\ @param\ str\ string\ that\ needs\ to\ be\ repeated\r\n\ @param\ times\ number\ of\ times\ the\ string\ needs\ to\ be\ repeated\r\n\ @param\ newLine\ whether\ or\ not\ to\ print\ a\ \\n\ character\ at\ the\ end\r\n
+numComments=6

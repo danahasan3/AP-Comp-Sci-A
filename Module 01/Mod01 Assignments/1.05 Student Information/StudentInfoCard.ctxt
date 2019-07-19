@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StudentInfoCard
+comment0.text=\r\n\ Purpose\:\ Display\ general\ information\ about\ me\ in\ the\ console.\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 6/11/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str\ n\ newLine
+comment2.target=void\ printRepeated(java.lang.String,\ int,\ boolean)
+numComments=3

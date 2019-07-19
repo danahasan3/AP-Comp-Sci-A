@@ -1,0 +1,9 @@
+Deciphered Message:
+FIRST I BELIEVE THAT THIS NATION SHOULD COMMIT ITSELF TO ACHIEVING 
+THE GOAL BEFORE THIS DECADE IS OUT OF LANDING A MAN ON THE MOON AND 
+RETURNING HIM SAFELY TO THE EARTH
+
+Evaluate the Process:
+1. I didn't run into any notable difficulties. I wrote the program, ran it, and it worked as expected on the first try.
+2. They were mostly relatively similar, but they were definitely not exactly the same. The frequencies would get closer together if the sample size of both texts were greater
+3. Given the frequencies associated with each letter for both the plain text and the cipher text, we could sort the frequencies while keeping each letter assigned to each frequency. Once we have both frequency arrays sorted with the letters assigned, we could just join the letters across indexes and replace the corresponding letters in the secret message with the letter from the plain text array. After the secret message is decoded, we would just need to check if the message makes sense and replace some letters that have very similar frequencies and we would have our decoded mesage.

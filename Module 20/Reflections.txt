@@ -1,0 +1,45 @@
+1)
+What were your reasons for taking the course?
+
+It was an AP course relevant to my intended major, and I was running out of challenging courses in school.
+
+Describe what you used to think computer science was all about?
+
+I think Computer Science is the science of using computers to solve problems that would be harder to solve without a computer.
+
+What did you think you were going to learn?
+
+Being completely honest, I did not come into this course expecting to learn anything. I had learned to program in Java when I was 11, and considered myself to be proficient in the language.
+
+2)
+Today, if someone asked you what computer science is about, what would you say?
+
+I still think a good definition for Computer Science is the science of using computers to solve problems that would be harder to solve without a computer.
+
+Describe some things that you learned that surprised you during the course.
+
+I learned some interesting applications of Interfaces and Abstract classes in this course. Though I was aware of both of those concepts prior to taking the course, I hadn't really seen some concrete use cases. The assignments on those topics helped me understand why they can be helpful.
+
+When you think about the future, in what ways are you better or less prepared to deal with technology issues that may affect you personally or society in general.
+
+Though I don't think I've greatly improved my programming abilities through this course, I can say in general that my ability to program and my general ability to solve problems allows me to solve a lot of issues with technology that I wouldn't be able to otherwise. For example, I now use programming along with the AutoHotKey language to automate several tasks on my computer like sending ASCII art to friends and opening google chrome with my gradebook open.
+
+3)
+Describe a lesson that was challenging or interesting. What was it about the lesson that made it memorable?
+
+I found the Magpie chatbot lab interesting, as it was cool how a simple set of conditional statements could generate responses that resembled actual responses. The assignment made me wonder how much could be possible with a much more elaborate structure like a neural network to represent many more dense conditional relationships.
+
+4)
+Describe a lesson that would like to see changed. Make a specific recommendation to improve this lesson.
+
+The algorithm assignments in Modules 17 and 18 are somewhat repetitive and become just a series of copy and pastes. It would probably be better if the assignments on each algorithm worked similar to the challenge program where a different algorithm was required for each different action. Through this each action would help towards a final product that would be similar to the Challenge Program in Module 18.
+
+5)
+What career possibilities do you see for yourself in the future? How might technology be involved?
+
+I see myself in research positions involving sub-topics of Computer Science. I'm particularly interested in Artificial Intelligence and Machine Learning. Technology, along with knowledge in the field, will continue to grow as time goes on, and the potential for creating much greater AI will become stronger.
+
+6)
+Please share other comments or ideas you'd like to share about your experience during the course.
+
+It was a long ride filled with way too much procrastination, but I've survived, I'm confident I got a 5 on the exam, and I'm glad I took the course.

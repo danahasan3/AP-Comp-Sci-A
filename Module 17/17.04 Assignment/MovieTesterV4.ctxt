@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MovieTesterV4
+comment0.text=\r\n\ Tester\ class\ for\ Movie\ class\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 5/4/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=str\ times\ newLine
+comment10.target=void\ printRepeated(java.lang.String,\ int,\ boolean)
+comment10.text=\r\n\ Prints\ a\ certain\ string\ repeatedly\r\n\ @param\ str\ string\ that\ needs\ to\ be\ repeated\r\n\ @param\ times\ number\ of\ times\ the\ string\ needs\ to\ be\ repeated\r\n\ @param\ newLine\ whether\ or\ not\ to\ print\ a\ \\n\ character\ at\ the\ end\r\n
+comment2.params=movies
+comment2.target=void\ printMovies(Movie[])
+comment3.params=movies\ low\ high
+comment3.target=void\ sortByTitle(Movie[],\ int,\ int)
+comment4.params=movies\ low\ mid\ high
+comment4.target=void\ sortByTitleMerge(Movie[],\ int,\ int,\ int)
+comment5.params=movies\ low\ high
+comment5.target=void\ sortByYear(Movie[],\ int,\ int)
+comment6.params=movies\ low\ mid\ high
+comment6.target=void\ sortByYearMerge(Movie[],\ int,\ int,\ int)
+comment7.params=movies\ low\ high
+comment7.target=void\ sortByStudio(Movie[],\ int,\ int)
+comment8.params=movies\ low\ mid\ high
+comment8.target=void\ sortByStudioMerge(Movie[],\ int,\ int,\ int)
+comment9.params=str\ fieldWidth\ newLine
+comment9.target=void\ printCenter(java.lang.String,\ int,\ boolean)
+comment9.text=\r\n\ Prints\ string\ surrounded\ by\ space\ characters\ such\ that\ the\ original\ is\ at\ the\ center\r\n\ @param\ str\ string\ that\ needs\ to\ be\ centered\r\n\ @param\ fieldWidth\ amount\ of\ characters\ in\ which\ the\ string\ needs\ to\ be\ centered\r\n\ @param\ newLine\ whether\ or\ not\ to\ add\ \\n\ character\ at\ the\ end\ of\ the\ string\r\n
+numComments=11

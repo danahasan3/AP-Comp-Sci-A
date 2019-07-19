@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PlanetGravity
+comment1.params=G\ M\ r
+comment1.target=double\ SG(double,\ double,\ double)
+comment2.params=dist
+comment2.target=double\ kmToM(double)
+comment3.params=planets\ M\ D\ sg
+comment3.target=void\ dispData(java.lang.String[],\ double[],\ double[],\ double[])
+comment4.params=sg
+comment4.target=void\ saveData(double[])
+comment5.params=str\ fieldWidth
+comment5.target=void\ printCenter(java.lang.String,\ int)
+comment6.params=str\ times\ newLine
+comment6.target=void\ printRepeated(java.lang.String,\ int,\ boolean)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

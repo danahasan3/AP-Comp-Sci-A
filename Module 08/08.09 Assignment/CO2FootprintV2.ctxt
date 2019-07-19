@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CO2FootprintV2
+comment0.text=\r\n\ @purpose\:This\ class\ calculates\ the\ amount\ of\ CO2\ released\ given\ the\ gallons\ of\ gas\ used\r\n\ It\ contains\ mutator\ methods\ to\ calculate\ the\ amount\ of\ CO2\ in\ tons\ and\ pounds\r\n\ It\ contains\ getter\ methods\ to\ get\ the\ amount\ of\ gallons\ of\ gas\ used,\ tons\ of\ CO2\ released,\ and\ pounds\ of\ CO2\ released\r\n\ Private\ instance\ variables\ include\ myGallonsUsed,\ myTonsCO2,\ and\ myPoundsCO2\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 7/30/2018\r\n
+comment1.params=gallons
+comment1.target=CO2FootprintV2(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ type\ CO2FootprintV2\r\n\ @param\ gallons\ The\ number\ of\ gallons\ of\ gas\ used.\r\n\ Precondition\:\ gallons\ is\ a\ positive\ value\r\n
+comment2.params=
+comment2.target=void\ calcTonsCO2()
+comment2.text=\r\n\ Mutator\ method\ that\ calculates\ the\ number\ of\ tons\ of\ CO2\ released\ in\ the\ atmosphere\r\n
+comment3.params=
+comment3.target=void\ convertTonsToPounds()
+comment3.text=\r\n\ Mutator\ method\ that\ calculates\ the\ number\ of\ pounds\ of\ CO2\ relased\ in\ the\ atmosphere\r\n
+comment4.params=
+comment4.target=double\ getGallons()
+comment4.text=\r\n\ Getter\ method\ to\ return\ the\ number\ of\ gallons\ of\ gas\ used\r\n\ @return\ gallons\ of\ gas\ used\r\n
+comment5.params=
+comment5.target=double\ getTonsCO2()
+comment5.text=\r\n\ Getter\ method\ to\ return\ the\ number\ of\ tons\ of\ CO2\ released\r\n\ @return\ tons\ of\ CO2\ released\r\n
+comment6.params=
+comment6.target=double\ getPoundsCO2()
+comment6.text=\r\n\ Getter\ method\ to\ return\ the\ number\ of\ pounds\ of\ CO2\ released\r\n\ @return\ pounds\ of\ CO2\ released\r\n
+numComments=7

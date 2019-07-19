@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Mortify
+comment0.text=\r\n\ Mortify\ MTG\ Card\r\n\r\n\ @author\ Bhaskar\ Mishra\r\n\ @version\ 2/17/2019\r\n
+comment1.params=name\ cost
+comment1.target=Mortify(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ flavorText()
+numComments=3
